@@ -1,0 +1,195 @@
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Modelo.dll.config
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Modelo.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Modelo.pdb
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\csc.exe
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\csc.exe.config
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\csc.rsp
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\csi.exe
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\csi.exe.config
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\csi.rsp
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.AppContext.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Console.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.IO.Compression.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Net.Http.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.ValueTuple.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\vbc.exe
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\vbc.exe.config
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\vbc.rsp
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Antlr3.Runtime.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\BouncyCastle.Crypto.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Google.Protobuf.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\K4os.Hash.xxHash.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\MySql.Data.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Newtonsoft.Json.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Buffers.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Memory.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Numerics.Vectors.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Web.Optimization.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\WebGrease.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Google.Protobuf.pdb
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Google.Protobuf.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\K4os.Hash.xxHash.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Buffers.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Memory.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Numerics.Vectors.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\System.Web.Optimization.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Newtonsoft.Json.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Antlr3.Runtime.pdb
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\obj\Debug\Modelo.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\obj\Debug\Modelo.pdb
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\Ubiety.Dns.Core.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\ZstdNet.dll
+C:\Users\jaide\source\repos\PruebaCategorias\Modelo\bin\MySql.Data.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Modelo.dll.config
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Modelo.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Modelo.pdb
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\csc.exe
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\csc.exe.config
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\csc.rsp
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\csi.exe
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\csi.exe.config
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\csi.rsp
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.AppContext.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Console.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.IO.Compression.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Net.Http.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.ValueTuple.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\vbc.exe
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\vbc.exe.config
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\vbc.rsp
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\VBCSCompiler.exe
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Antlr3.Runtime.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\BouncyCastle.Crypto.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Google.Protobuf.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\K4os.Hash.xxHash.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\MySql.Data.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Newtonsoft.Json.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Buffers.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Memory.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Numerics.Vectors.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Web.Optimization.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Ubiety.Dns.Core.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\WebGrease.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\ZstdNet.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Google.Protobuf.pdb
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Google.Protobuf.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\K4os.Hash.xxHash.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\MySql.Data.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Buffers.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Memory.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Numerics.Vectors.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\System.Web.Optimization.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Newtonsoft.Json.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Antlr3.Runtime.pdb
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\obj\Debug\Modelo.dll
+C:\Users\crist\Documents\UNIVERSIDAD\Semestre VII\CALIDAD DE SOFTWARE II\PROYECTOS VISUAL STUDIO\PruebaCategorias\Modelo\obj\Debug\Modelo.pdb
