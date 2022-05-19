@@ -11,14 +11,14 @@
             width: 341px;
         }
         .auto-style2 {
-            width: 434px;
+            width: 515px;
         }
         .auto-style3 {
             width: 341px;
             height: 33px;
         }
         .auto-style4 {
-            width: 434px;
+            width: 515px;
             height: 33px;
         }
         .auto-style5 {
@@ -29,7 +29,7 @@
             height: 26px;
         }
         .auto-style7 {
-            width: 434px;
+            width: 515px;
             height: 26px;
         }
         .auto-style8 {
@@ -50,7 +50,7 @@
                         <asp:TextBox ID="txtIdProducto" runat="server" Width="272px" TextMode="Number"></asp:TextBox>
                     </td>
                     <td class="auto-style5">
-                        <asp:Button ID="btnAgregar" runat="server" OnClick="btnAgregar_Click" Text="Agregar" />
+                        <asp:Button ID="btnAgregar" runat="server" OnClick="btnAgregar_Click" Text="Agregar" Width="104px" />
                     </td>
                 </tr>
                 <tr>
@@ -58,9 +58,10 @@
                     <td class="auto-style2">
                         <asp:DropDownList ID="DropDownListCategoria" runat="server" Width="281px">
                         </asp:DropDownList>
+                        <asp:Button ID="btnBuscarCategorias" runat="server" Height="25px" OnClick="btnBuscarCategorias_Click" Text="Buscar categorias activas" Width="206px" />
                     </td>
                     <td>
-                        <asp:Button ID="btn_delete" runat="server" OnClick="btn_delete_Click" Text="Eliminar" />
+                        <asp:Button ID="btn_delete" runat="server" OnClick="btn_delete_Click" Text="Eliminar" Width="106px" />
                     </td>
                 </tr>
                 <tr>
@@ -69,7 +70,7 @@
                         <asp:TextBox ID="txtNombre" runat="server" Width="271px"></asp:TextBox>
                     </td>
                     <td>
-                        <asp:Button ID="btn_actualizar" runat="server" Text="Actualizar" OnClick="btn_actualizar_Click" />
+                        <asp:Button ID="btn_actualizar" runat="server" Text="Actualizar" OnClick="btn_actualizar_Click" Width="105px" />
                     </td>
                 </tr>
                 <tr>
@@ -78,6 +79,7 @@
                         <asp:TextBox ID="txtDescripcion" runat="server" Width="271px" Height="88px" TextMode="MultiLine"></asp:TextBox>
                     </td>
                     <td class="auto-style8">
+                        <asp:Button ID="btnBuscar" runat="server" OnClick="btnBuscar_Click" Text="Buscar" Width="103px" />
                     </td>
                 </tr>
                 <tr>

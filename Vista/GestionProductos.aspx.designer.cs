@@ -51,6 +51,15 @@ namespace Vista
         protected global::System.Web.UI.WebControls.DropDownList DropDownListCategoria;
 
         /// <summary>
+        /// Control btnBuscarCategorias.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnBuscarCategorias;
+
+        /// <summary>
         /// Control btn_delete.
         /// </summary>
         /// <remarks>
@@ -87,7 +96,7 @@ namespace Vista
         protected global::System.Web.UI.WebControls.TextBox txtDescripcion;
 
         /// <summary>
-        /// Control Button1.
+        /// Control btnBuscar.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.

@@ -42,5 +42,14 @@ namespace Control
             return datos;
         }
 
+        public DataSet consultarCategoria(int id)
+        {
+            DataSet datos = new DataSet();
+            string sql = "select id_categoria, nombre_categoria, estado from categoria "+
+                "WHERE id_categoria = "+ id + ";";
+            datos = persistencia.ejecutoR(sql);
+            return datos;
+        }
+
     }
 }

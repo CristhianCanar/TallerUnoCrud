@@ -34,7 +34,7 @@ namespace Control
         public bool eliminarProducto(int idProducto)
         {
             bool delete = false;
-            string sql = "delete from producto where id_producto ='" + idProducto + "'";
+            string sql = "delete from producto where id_producto = " + idProducto + "";
             delete = persistencia.ejecutarCUD(sql);
             return delete;
         }
