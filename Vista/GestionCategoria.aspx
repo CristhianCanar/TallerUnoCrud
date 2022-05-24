@@ -60,6 +60,28 @@
                         <asp:Button ID="btn_actualizar" runat="server" Text="Actualizar" OnClick="btn_actualizar_Click" />
                     </td>
                 </tr>
+                <tr>
+                    <td class="auto-style1">&nbsp;</td>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td>
+                        <asp:Button ID="btn_buscar" runat="server" OnClick="btn_buscar_Click" Text="Buscar" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style1">&nbsp;</td>
+                    <td class="auto-style2">
+                        <asp:GridView ID="gv_categorias" runat="server" AutoGenerateColumns="False" DataKeyNames="id_categoria,nombre_categoria,estado" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
+                            <Columns>
+                                <asp:BoundField DataField="id_categoria" HeaderText="Código" />
+                                <asp:BoundField DataField="nombre_categoria" HeaderText="Nombre" />
+                                <asp:BoundField DataField="estado" HeaderText="Estado" />
+                            </Columns>
+                        </asp:GridView>
+                    </td>
+                    <td>
+                        &nbsp;</td>
+                </tr>
             </table>
         </div>
     </form>

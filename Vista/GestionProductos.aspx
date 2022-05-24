@@ -98,6 +98,23 @@
                     <td>
                         &nbsp;</td>
                 </tr>
+                <tr>
+                    <td class="auto-style1">&nbsp;</td>
+                    <td class="auto-style2">
+                        <asp:GridView ID="gv_productos" runat="server" AutoGenerateColumns="False" DataKeyNames="id_producto,nombre_producto,descripcion_producto,precio,cantidad_producto,categoria_id">
+                            <Columns>
+                                <asp:BoundField DataField="id_producto" HeaderText="Código" />
+                                <asp:BoundField DataField="nombre_producto" HeaderText="Nombre" />
+                                <asp:BoundField DataField="descripcion_producto" HeaderText="Descripción" />
+                                <asp:BoundField DataField="precio" HeaderText="Precio" />
+                                <asp:BoundField DataField="cantidad_producto" HeaderText="Cantidad" />
+                                <asp:BoundField DataField="categoria_id" HeaderText="Categoria" />
+                            </Columns>
+                        </asp:GridView>
+                    </td>
+                    <td>
+                        &nbsp;</td>
+                </tr>
             </table>
         </div>
     </form>

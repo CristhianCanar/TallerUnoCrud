@@ -42,7 +42,7 @@ namespace Control
             return datos;
         }
 
-        public DataSet consultarCategoria(int id)
+        public DataSet consultarCategorias(int id)
         {
             DataSet datos = new DataSet();
             string sql = "select id_categoria, nombre_categoria, estado from categoria "+

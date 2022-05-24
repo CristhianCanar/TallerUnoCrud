@@ -47,7 +47,7 @@ namespace Control
             return datos;
         }
 
-        public DataSet consultarProducto(int id)
+        public DataSet consultarProductos(int id)
         {
             DataSet datos = new DataSet();
             string sql = "select id_producto, nombre_producto, descripcion_producto, precio, cantidad_producto, categoria_id FROM producto "+
